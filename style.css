@@ -1,0 +1,19 @@
+.my-btn{
+    padding: 30px 90px;
+    background-color: blue;
+    color: white;
+    transition: all 0.2s;
+}
+.my-btn:hover{
+    background-color: green;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+p{
+ font-family:'Times New Roman', Times, serif;   
+ font-size: 30px;
+}
